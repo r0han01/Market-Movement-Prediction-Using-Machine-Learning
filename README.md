@@ -51,5 +51,5 @@ To improve model performance, the following approaches could be explored:
 To use this repository, clone it to your local machine and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/market-prediction.git
+git clone git@github.com:r0han01/Market-Movement-Prediction-Using-Machine-Learning.git
 cd market-prediction
